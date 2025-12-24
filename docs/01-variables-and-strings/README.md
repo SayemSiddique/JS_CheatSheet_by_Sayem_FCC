@@ -1,1 +1,1 @@
-# 01 — Variables and Strings
+# 01. Variables and Strings
