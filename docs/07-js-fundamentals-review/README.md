@@ -1,1 +1,1 @@
-# 07 — JavaScript Fundamentals Review
+# 07. JavaScript Fundamentals Review
