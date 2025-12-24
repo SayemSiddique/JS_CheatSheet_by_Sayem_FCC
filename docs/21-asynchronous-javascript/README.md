@@ -1,1 +1,1 @@
-# 21 — Asynchronous JavaScript
+# 21. Asynchronous JavaScript

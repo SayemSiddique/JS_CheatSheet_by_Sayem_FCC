@@ -1,1 +1,1 @@
-# 20 — Functional Programming
+# 20. Functional Programming
